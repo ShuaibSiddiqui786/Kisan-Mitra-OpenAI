@@ -20,7 +20,7 @@ Explore the newer version to take advantage of these advancements and further en
 
 ## Getting Started
 
-To get started with Kisan Mitra OpenAI, follow these steps:
+To get started with Kisan Mitra OpenAI, You can simply Fork it or just follow these steps:
 
 1. Clone the repository:
    ```sh
