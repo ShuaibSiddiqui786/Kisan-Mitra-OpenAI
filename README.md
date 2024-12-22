@@ -9,7 +9,7 @@ The main objective of Kisan Mitra OpenAI is to empower farmers with AI-driven so
 
 ## Newer Version
 
-I have developed a newer version of this project with significant improvements and additional features. You can find the newer version of Kisan Mitra OpenAI [here](github.com/Kisan-Mitra). This updated version includes:
+I have developed a newer version of this project with significant improvements and additional features. You can find the newer version of Kisan Mitra OpenAI [here](https://github.com/shuaibsiddiqui786/Kisan-Mitra). This updated version includes:
 
 - Further refined AI models
 - Improved backend performance
